@@ -1,7 +1,7 @@
-# LetsScroll-me - Mini TikTok Clone
+# LetsScroll-me
 
-LetsScroll-me , **Node.js + Express + Vue 3** ile geliştirilmiş bir kısa video platformu uygulamasıdır.  
-Kullanıcılar videoları kaydırarak izleyebilir, beğenebilir ve ses aç/kapat kontrolünü kullanabilir.
+LetsScroll-me , **Node.js + Express + Bun + Vue 3** ile geliştirilmiş bir kısa video platformu uygulamasıdır.  
+Kullanıcılar videoları kaydırarak izleyebilir, beğenebilir ve çok daha fazlasını yaparak eğlenceli vakitler geçirebilir.
 
 ## Özellikler
 
